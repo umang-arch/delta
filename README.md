@@ -1,2 +1,2 @@
 # delta
-Simon-says
+Simon-says.
