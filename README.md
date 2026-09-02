@@ -1,2 +1,0 @@
-# delta
-Simon-says.
